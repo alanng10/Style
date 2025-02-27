@@ -1,15 +1,15 @@
 # Style
 
-Style has most general and most level arch.
+Style has park worth.
 
-Style has most general and most level marry baseline.
+Style has park value.
 
-Style has most general and most level marry opacity.
+Style has park benefit.
 
-Style has most general and most level marry cap limit.
+Style has park marry.
 
-Style has most general and most level marry execute certainty.
+Style has park land.
 
-Style has ultimate arch.
+Style has park arch.
 
-Style has ultimate marry baseline.
+Style has park arch worth.
