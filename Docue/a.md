@@ -1,5 +1,7 @@
 # Style
 
+Style is park style.
+
 Style has park worth.
 
 Style has park value.
