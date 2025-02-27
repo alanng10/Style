@@ -8,7 +8,7 @@ Style has park benefit.
 
 Style has park marry.
 
-Style has park land.
+Style has park land. 
 
 Style has park arch.
 
