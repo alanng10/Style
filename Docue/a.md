@@ -1,20 +1,20 @@
-# Style
+# Style 
 
-Style is park style.
+Style is park style. 
 
-Style has park worth.
+Style has park worth. 
 
-Style has park value.
+Style has park value. 
 
-Style has park benefit.
+Style has park benefit. 
 
-Style has park marry.
+Style has park marry. 
 
-Style has park land.
+Style has park land. 
 
-Style has park arch.
+Style has park arch. 
 
-Style has park arch worth.
+Style has park arch worth. 
 
 Style has park kind.
 
