@@ -47,3 +47,5 @@ Style has park kind arch benefit.
 Style has park kind arch marry.
 
 Style has park kind arch land.
+
+Style has major on park.
