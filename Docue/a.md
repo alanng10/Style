@@ -48,4 +48,8 @@ Style has park kind arch marry.
 
 Style has park kind arch land.
 
+Style has park mark.
+
+Style has park cross.
+
 Style has major on park.
