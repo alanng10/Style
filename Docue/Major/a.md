@@ -13,3 +13,5 @@ Style is not tagged with negative feeling comp so as to be effecon in feeling.
 Style has order of more high inf it is in 1 theme.
 
 Style has order of more high inf it theme has all style major apply.
+
+Style has order of more high inf it theme has none comp that not all style major apply.
